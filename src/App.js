@@ -17,7 +17,12 @@ function App() {
   const [pageSize, setPageSize] = useQueryState("pageSize", { defaultValue: 15 });
   const [searchQuery, setSearchQuery] = useQueryState("search", { defaultValue: "" });
 
-  const [rowData] = useState(data);
+  const [rowData] = useState(
+  data.map((item) => ({
+    ...item,
+    skills : item.skills ? item.skills.map((skill) => skill.name).join(", ") : "" 
+  }))
+);
   const [colDefs, setColDefs] = useState(
     Object.keys(data[0]).map((key) => ({
       field: key, 
