@@ -1,0 +1,6326 @@
+[
+    {
+      "id": "0918****************************2901",
+      "userId": "7e09****************************d759",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Hi************* R",
+      "email": "bin******@*mail.com",
+      "phone": "74*****658",
+      "location": "Bangalore",
+      "ctc": "74",
+      "employer": "",
+      "currentContractType": null,
+      "currentWorkType": null,
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "10",
+      "offersInHand": "1",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "21/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "fa86****************************c265",
+      "userId": "e04f****************************dcee",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sh*******************na",
+      "email": "sha**********@*mail.com",
+      "phone": "91*****680",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "No",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 60,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "21/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "78fd****************************188c",
+      "userId": "04fa****************************83de",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sh******ms",
+      "email": "sha*********@*mail.com",
+      "phone": "83*****762",
+      "location": "Nellore",
+      "ctc": "4",
+      "employer": "Pr***************************ed",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "6",
+      "offersInHand": "2",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "21/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "5509****************************f680",
+      "userId": "06d0****************************33a1",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra**************da",
+      "email": "raj**********@*mail.com",
+      "phone": "96*****411",
+      "location": "Bangalore",
+      "ctc": "3",
+      "employer": "Im***************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "21/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "23e3****************************fd17",
+      "userId": "3a6b****************************354c",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Pr***********t ",
+      "email": "pra**************@*mail.com",
+      "phone": "94*****396",
+      "location": "Vellore",
+      "ctc": "7",
+      "employer": "Pr******* V",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": "10",
+      "offersInHand": "1",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "21/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "5e22****************************e33d",
+      "userId": "7281****************************21b8",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Am******al",
+      "email": "ama***************@*mail.com",
+      "phone": "70*****909",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Ci******bs",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "21/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "dfeb****************************a8f9",
+      "userId": "fe25****************************4679",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Yo**********MR",
+      "email": "mry**************@*mail.com",
+      "phone": "97*****310",
+      "location": "Chennai",
+      "ctc": "4",
+      "employer": "NA",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 0,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "0"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "0"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "c0cf****************************422e",
+      "userId": "316d****************************b3c4",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sh***** G",
+      "email": "shr************@*mail.com",
+      "phone": "84*****787",
+      "location": "Bangalore",
+      "ctc": "41",
+      "employer": "In***ys",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": "8",
+      "offersInHand": "1",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "c807****************************6ea0",
+      "userId": "be6c****************************8c09",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ko*************ma",
+      "email": "140******@*mail.com",
+      "phone": "98*****669",
+      "location": "Bangalore",
+      "ctc": "6",
+      "employer": "",
+      "currentContractType": null,
+      "currentWorkType": null,
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "5b02****************************c489",
+      "userId": "3f22****************************b5eb",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ar*******an",
+      "email": "ara**********@*mail.com",
+      "phone": "78*****180",
+      "location": "Bangalore",
+      "ctc": "8",
+      "employer": "Bo******************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "16",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "5803****************************11ef",
+      "userId": "bf5d****************************70f8",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Am****KC",
+      "email": "ami******@*mail.com",
+      "phone": "77*****415",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Sc***********c)",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "1336****************************8b0b",
+      "userId": "5cea****************************44aa",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi***** K",
+      "email": "vig**************@*mail.com",
+      "phone": "88*****106",
+      "location": "Chennai",
+      "ctc": "5",
+      "employer": "TCS",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "d6ed****************************6bf8",
+      "userId": "ff0f****************************2ced",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ma********* S",
+      "email": "mkm*******@*mail.com",
+      "phone": "78*****416",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Ac*****re",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "6",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "6aae****************************f18c",
+      "userId": "85a3****************************c641",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ar************li",
+      "email": "ahu*********@*mail.com",
+      "phone": "94*****707",
+      "location": "Bangalore",
+      "ctc": "7",
+      "employer": "Ar*****************************li",
+      "currentContractType": "Contract to hire (C2H)",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "0"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "bf84****************************9d2f",
+      "userId": "fd9e****************************3877",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ro*******um",
+      "email": "roz********@*mail.com",
+      "phone": "93*****495",
+      "location": "Bangalore",
+      "ctc": "8",
+      "employer": "Yo***************************************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "0"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "8bba****************************fd33",
+      "userId": "3333****************************0fb7",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ga***** M",
+      "email": "hmg***********@*mail.com",
+      "phone": "96*****201",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Ta*********************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "20/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "79df****************************9460",
+      "userId": "4db7****************************6a7f",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Am******gh",
+      "email": "ama*********@*mail.com",
+      "phone": "80*****993",
+      "location": "Bangalore",
+      "ctc": "7",
+      "employer": "Ac*****re",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "13",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "58c5****************************0f65",
+      "userId": "7199****************************e979",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ve*********************ri",
+      "email": "ven******************@*mail.com",
+      "phone": "80*****457",
+      "location": "Hyderabad",
+      "ctc": "3",
+      "employer": "Ca********ch",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "4659****************************cbab",
+      "userId": "8055****************************3def",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "An*********an",
+      "email": "anu***********@*mail.com",
+      "phone": "78*****339",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Me*******st",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "3914****************************d363",
+      "userId": "7d0b****************************6c60",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "PR**************MY",
+      "email": "pri*******@*mail.com",
+      "phone": "93*****122",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Av***ft",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "6ba9****************************2c52",
+      "userId": "be94****************************4fda",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sa***********ar",
+      "email": "cha**************@*mail.com",
+      "phone": "73*****572",
+      "location": "Pune",
+      "ctc": "1",
+      "employer": "Hi****************d.",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "5",
+      "offersInHand": "1",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "c96a****************************9533",
+      "userId": "3056****************************a964",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sa******************y ",
+      "email": "san**************@*mail.com",
+      "phone": "88*****206",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "So*************er",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "10",
+      "offersInHand": "1",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "a20f****************************e07d",
+      "userId": "3ab7****************************b9d8",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ch*************he",
+      "email": "cha***************@*mail.com",
+      "phone": "91*****798",
+      "location": "Pune",
+      "ctc": "6",
+      "employer": "Wi*ro",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 60,
+      "offerCTC": "9",
+      "offersInHand": "1",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "11",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "9f0e****************************6bfb",
+      "userId": "75c3****************************c951",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Su***** R",
+      "email": "suj**************@*mail.com",
+      "phone": "80*****968",
+      "location": "Coimbatore",
+      "ctc": "0",
+      "employer": "NA",
+      "currentContractType": null,
+      "currentWorkType": null,
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "4",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "16af****************************9224",
+      "userId": "b102****************************6608",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Pr*************a ",
+      "email": "pri***************@*mail.com",
+      "phone": "63*****049",
+      "location": "Anand",
+      "ctc": "8",
+      "employer": "Pr***********ya",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "11",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "27ef****************************303b",
+      "userId": "d05b****************************3690",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ha********di",
+      "email": "har**********@*mail.com",
+      "phone": "70*****085",
+      "location": "Ratlam",
+      "ctc": "5",
+      "employer": "BT****up",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "9337****************************fc07",
+      "userId": "d990****************************1061",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "ja***********la",
+      "email": "jay*************@*mail.com",
+      "phone": "95*****781",
+      "location": "Bangalore",
+      "ctc": "23",
+      "employer": "Wa*****************************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "24",
+      "offersInHand": "1",
+      "overallExperience": "6",
+      "willingToRelocate": true,
+      "expectedCTC": "28",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "5"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "03b7****************************a15e",
+      "userId": "23e7****************************2118",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Re**********ma",
+      "email": "ree**********@*mail.com",
+      "phone": "80*****472",
+      "location": "Ghaziabad",
+      "ctc": "7",
+      "employer": "Pa*************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "18",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "97a6****************************f109",
+      "userId": "fd88****************************2db7",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Rh****************r ",
+      "email": "rhu**********@*mail.com",
+      "phone": "86*****047",
+      "location": "Mumbai",
+      "ctc": "5",
+      "employer": "Na**********************ed",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "7",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "0893****************************cae5",
+      "userId": "c59e****************************40d4",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sa**********sh",
+      "email": "san*******@*mail.com",
+      "phone": "96*****866",
+      "location": "Bangalore",
+      "ctc": "31",
+      "employer": "Si***************nk",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "13",
+      "willingToRelocate": true,
+      "expectedCTC": "41",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "5"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "9e8d****************************070a",
+      "userId": "ed2c****************************1bb1",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Pa********* S",
+      "email": "pav************@*mail.com",
+      "phone": "82*****074",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Qu*****st",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "12ae****************************4012",
+      "userId": "6984****************************7eaf",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Hi************hi",
+      "email": "him*******@*mail.com",
+      "phone": "70*****416",
+      "location": "Gurgaon",
+      "ctc": "9",
+      "employer": "Or*********ra",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "12",
+      "offersInHand": "1",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "15",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "1c4c****************************1f2d",
+      "userId": "99fa****************************67b2",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "TA****GK",
+      "email": "tar********@*mail.com",
+      "phone": "91*****966",
+      "location": "Bangalore",
+      "ctc": "0",
+      "employer": "-",
+      "currentContractType": "Freelance",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 20,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "4",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "0"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "2aa4****************************192f",
+      "userId": "15b0****************************3821",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra***************i ",
+      "email": "ram*******@*mail.com",
+      "phone": "73*****019",
+      "location": "Hyderabad",
+      "ctc": "6",
+      "employer": "Fr******er",
+      "currentContractType": "Freelance",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "9",
+      "offersInHand": "1",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "8dfc****************************bdd9",
+      "userId": "15ad****************************3745",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ga******************ar",
+      "email": "gan***********@*mail.com",
+      "phone": "70*****579",
+      "location": "Bangalore",
+      "ctc": "12",
+      "employer": "Sa******************ia",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "14",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "3324****************************e3b3",
+      "userId": "f934****************************1f08",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "SA***************ti",
+      "email": "sai****************@*mail.com",
+      "phone": "94*****037",
+      "location": "Bangalore",
+      "ctc": "8",
+      "employer": "TA*********************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "13",
+      "offersInHand": "1",
+      "overallExperience": "5",
+      "willingToRelocate": true,
+      "expectedCTC": "15",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "4"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "5"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "4"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "fa47****************************23ae",
+      "userId": "f4ac****************************6f77",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ka*********ra",
+      "email": "kau************@*mail.com",
+      "phone": "93*****497",
+      "location": "Jabalpur",
+      "ctc": "2",
+      "employer": "Bu*******************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "5f2b****************************e02e",
+      "userId": "88fe****************************b299",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra************pu",
+      "email": "rak****************@*mail.com",
+      "phone": "90*****694",
+      "location": "Hyderabad",
+      "ctc": "4",
+      "employer": "Ra************pu",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "3a58****************************0c04",
+      "userId": "b58b****************************a141",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra***** D",
+      "email": "rah*******@*mail.com",
+      "phone": "93*****513",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "7E*****************ed",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "8689****************************af52",
+      "userId": "a768****************************bc83",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Dh************* R",
+      "email": "dhi*****************@*mail.com",
+      "phone": "99*****429",
+      "location": "Chennai",
+      "ctc": "5",
+      "employer": "Ta********************ce",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": "10",
+      "offersInHand": "1",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "11",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "4"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "4"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "4"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "99d5****************************3160",
+      "userId": "ee62****************************8af4",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra************na",
+      "email": "rav**************@*mail.com",
+      "phone": "79*****627",
+      "location": "Hyderabad",
+      "ctc": "6",
+      "employer": "DX**********GY",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "4"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "c019****************************c919",
+      "userId": "c332****************************361f",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "MA******* S",
+      "email": "man************@*mail.com",
+      "phone": "99*****518",
+      "location": "Bangalore",
+      "ctc": "3",
+      "employer": "Ma***ar",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "1ea9****************************4684",
+      "userId": "3092****************************86ce",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ya**** M",
+      "email": "yas*********@*mail.com",
+      "phone": "80*****862",
+      "location": "Mysuru",
+      "ctc": "6",
+      "employer": "Zy*us",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "e97f****************************f425",
+      "userId": "fd8c****************************3193",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ko********er",
+      "email": "kou********@*mail.com",
+      "phone": "93*****216",
+      "location": "Bangalore",
+      "ctc": "8",
+      "employer": "Di***************re",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "14",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "c7af****************************8617",
+      "userId": "c6e6****************************0938",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi*** M",
+      "email": "vin***********@*mail.com",
+      "phone": "88*****829",
+      "location": "Chennai",
+      "ctc": "4",
+      "employer": "Ta*********************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "465d****************************8eb4",
+      "userId": "d4e6****************************feb6",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ha***************la",
+      "email": "har*******************@*mail.com",
+      "phone": "91*****823",
+      "location": "Guntur",
+      "ctc": "0",
+      "employer": "Ha***************la",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 0,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "0"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "0"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "6789****************************d376",
+      "userId": "6f75****************************02cf",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi***** S",
+      "email": "vig********@****et.ac.in",
+      "phone": "63*****428",
+      "location": "Chennai",
+      "ctc": "3",
+      "employer": "Ma******************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": "6",
+      "offersInHand": "1",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "4",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "1dc2****************************396d",
+      "userId": "c693****************************327d",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ma**************la",
+      "email": "adm**********@*mail.com",
+      "phone": "83*****492",
+      "location": "Hyderabad",
+      "ctc": "4",
+      "employer": "Ta*********************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "497c****************************c6ea",
+      "userId": "5c8a****************************8246",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Mu*********fi",
+      "email": "raf******@*mail.com",
+      "phone": "97*****601",
+      "location": "Ernakulam",
+      "ctc": "3",
+      "employer": "No****************Lp",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "12",
+      "offersInHand": "2",
+      "overallExperience": "5",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "28d1****************************003a",
+      "userId": "47fc****************************965f",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Pr*************la",
+      "email": "cha**************@*mail.com",
+      "phone": "63*****629",
+      "location": "Chennai",
+      "ctc": "5",
+      "employer": "TA********************ce",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "11",
+      "offersInHand": "1",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "02b6****************************d36e",
+      "userId": "e5b6****************************68da",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ha**********la",
+      "email": "m.v***********@*mail.com",
+      "phone": "91*****055",
+      "location": "Hyderabad",
+      "ctc": "9",
+      "employer": "Kn***********************************ed",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "cc88****************************5f53",
+      "userId": "1bce****************************b9aa",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ba********na",
+      "email": "bas***********@*mail.com",
+      "phone": "93*****383",
+      "location": "Hyderabad",
+      "ctc": "6",
+      "employer": "Ge***ct",
+      "currentContractType": "Contract to hire (C2H)",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": "8",
+      "offersInHand": "2",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "4"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "4"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "9003****************************88b1",
+      "userId": "cd43****************************b294",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Je********ni",
+      "email": "jee********@*mail.com",
+      "phone": "63*****191",
+      "location": "Bangalore",
+      "ctc": "24",
+      "employer": "Ai**sh",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "30",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "0fa8****************************b30c",
+      "userId": "f273****************************a522",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "He***********MN",
+      "email": "hem***************@*mail.com",
+      "phone": "91*****654",
+      "location": "Bangalore",
+      "ctc": "12",
+      "employer": "Es****co",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "5",
+      "willingToRelocate": true,
+      "expectedCTC": "14",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "5"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "5"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "5"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "5"
+        }
+      ]
+    },
+    {
+      "id": "5e78****************************66c2",
+      "userId": "2172****************************b852",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ni******************ar",
+      "email": "kbn*********@*mail.com",
+      "phone": "78*****123",
+      "location": "Bangalore",
+      "ctc": "3500",
+      "employer": "Ju*****************st",
+      "currentContractType": "Contract",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6500",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "9f72****************************ce2c",
+      "userId": "639a****************************5d4d",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Dh*******MS",
+      "email": "dha*******@*mail.com",
+      "phone": "63*****709",
+      "location": "Bangalore",
+      "ctc": "3",
+      "employer": "Te*******ra",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "19e5****************************28b9",
+      "userId": "b8df****************************0340",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ko*********il",
+      "email": "nik***********@*mail.com",
+      "phone": "91*****858",
+      "location": "Hyderabad",
+      "ctc": "5",
+      "employer": "Gep",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "6",
+      "offersInHand": "1",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "19/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "71b5****************************1f34",
+      "userId": "94a5****************************0697",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ve**************ha",
+      "email": "vsi*********@*mail.com",
+      "phone": "70*****286",
+      "location": "Pune",
+      "ctc": "6",
+      "employer": "",
+      "currentContractType": "Permanent",
+      "currentWorkType": null,
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "11",
+      "offersInHand": "3",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "84b7****************************66c3",
+      "userId": "2b6d****************************3b62",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Aj*********il",
+      "email": "aji************@*mail.com",
+      "phone": "97*****524",
+      "location": "Belgaum",
+      "ctc": "4",
+      "employer": "My***************************************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "5e98****************************ba41",
+      "userId": "55db****************************3951",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ab************h ",
+      "email": "abh**********@*mail.com",
+      "phone": "82*****138",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Ab**********gh",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "6",
+      "offersInHand": "1",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "0b77****************************d6a1",
+      "userId": "e1a1****************************1d0d",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "NI************AL",
+      "email": "nik*************@*mail.com",
+      "phone": "79*****539",
+      "location": "Bangalore",
+      "ctc": "9",
+      "employer": "Sp***********on",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "18",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "5ad5****************************07f3",
+      "userId": "b9d8****************************e155",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Hi**********ha",
+      "email": "him**************@*mail.com",
+      "phone": "76*****914",
+      "location": "Baleswar",
+      "ctc": "3",
+      "employer": "Ba**********************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "7",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "100f****************************3659",
+      "userId": "9fe6****************************bbeb",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ni***********al",
+      "email": "nir***********@*mail.com",
+      "phone": "81*****703",
+      "location": "Mumbai",
+      "ctc": "11",
+      "employer": "In***ys",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "16",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "728c****************************f5f2",
+      "userId": "5966****************************6282",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sh*******ta",
+      "email": "sha*******@*mail.com",
+      "phone": "63*****681",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Ca*****ni",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "5553****************************5309",
+      "userId": "674a****************************ff6f",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ja*****************li",
+      "email": "jag************@*mail.com",
+      "phone": "91*****581",
+      "location": "Hyderabad",
+      "ctc": "4",
+      "employer": "In***ys",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "10",
+      "offersInHand": "2",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "8f1f****************************b3ad",
+      "userId": "2730****************************9418",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Na**********ar",
+      "email": "nau************@*mail.com",
+      "phone": "87*****085",
+      "location": "Pune",
+      "ctc": "10",
+      "employer": "Pi********es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "18",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "4272****************************3415",
+      "userId": "6ba1****************************6538",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Su*******ak",
+      "email": "sum***********@*mail.com",
+      "phone": "97*****768",
+      "location": "Bangalore",
+      "ctc": "7",
+      "employer": "Ne**********************on",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": "10",
+      "offersInHand": "9",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "11",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "4"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "4"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "4"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "541c****************************89fc",
+      "userId": "1ddd****************************1a6d",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "AM*****AN",
+      "email": "ama***********@*mail.com",
+      "phone": "98*****005",
+      "location": "Panipat",
+      "ctc": "9",
+      "employer": "HTS",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": "11",
+      "offersInHand": "1",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "2500****************************0e03",
+      "userId": "8e93****************************90eb",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sy********* K",
+      "email": "sye**********@*mail.com",
+      "phone": "99*****641",
+      "location": "Bangalore",
+      "ctc": "3500",
+      "employer": "Te*************************d.",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "8000",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "0aa3****************************5ef7",
+      "userId": "8a08****************************6872",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ba************hi",
+      "email": "anu******************@*mail.com",
+      "phone": "96*****687",
+      "location": "Bangalore",
+      "ctc": "7",
+      "employer": "Ac*****re",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "35c5****************************069c",
+      "userId": "4536****************************a084",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Su**********hu",
+      "email": "sub**************@*mail.com",
+      "phone": "80*****638",
+      "location": "Kolkata",
+      "ctc": "5",
+      "employer": "Ta*****************************ed",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": "8",
+      "offersInHand": "1",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "4"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "4"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "bec2****************************d397",
+      "userId": "117d****************************ff3a",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Pa*********la",
+      "email": "kal***************@*mail.com",
+      "phone": "83*****466",
+      "location": "Hyderabad",
+      "ctc": "4",
+      "employer": "Wi*ro",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": "8",
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "b785****************************8862",
+      "userId": "4b83****************************39c7",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra****************th",
+      "email": "rak**************@*mail.com",
+      "phone": "90*****960",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Ra****************th",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "979f****************************1778",
+      "userId": "f6fc****************************9615",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Mu*************li",
+      "email": "muz************@*mail.com",
+      "phone": "81*****385",
+      "location": "Dharward",
+      "ctc": "2",
+      "employer": "Le********in",
+      "currentContractType": "Contract",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "fed1****************************c904",
+      "userId": "adfd****************************7270",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "So**********ri",
+      "email": "sou************@*mail.com",
+      "phone": "79*****335",
+      "location": "Pune",
+      "ctc": "7",
+      "employer": "Ac*****re",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "14",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "8e21****************************5194",
+      "userId": "eb87****************************378e",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ad******************uf",
+      "email": "adn**********@*mail.com",
+      "phone": "83*****128",
+      "location": "Amravati",
+      "ctc": "0",
+      "employer": "",
+      "currentContractType": null,
+      "currentWorkType": null,
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "3",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "9afb****************************be0f",
+      "userId": "75d1****************************c2cc",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ri*************J ",
+      "email": "riz*********@*mail.com",
+      "phone": "98*****432",
+      "location": "Ernakulam",
+      "ctc": "3",
+      "employer": "Ew**************************ed",
+      "currentContractType": "Contract to hire (C2H)",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "21bc****************************815a",
+      "userId": "b884****************************7448",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Bh********************pu",
+      "email": "bha*************@*mail.com",
+      "phone": "79*****576",
+      "location": "Hyderabad",
+      "ctc": "5",
+      "employer": "Bh********sh",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "10",
+      "offersInHand": "1",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "3faa****************************da7e",
+      "userId": "cf21****************************4f8d",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi********* B",
+      "email": "vij***********@*mail.com",
+      "phone": "78*****146",
+      "location": "Chennai",
+      "ctc": "14",
+      "employer": "Zu********ms",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "14",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "4"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "4"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "4"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "c12b****************************715a",
+      "userId": "1dd7****************************b422",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Mo**********an",
+      "email": "imr*************@*mail.com",
+      "phone": "76*****133",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Lt*******ee",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "002f****************************1ef0",
+      "userId": "ec39****************************6bb9",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "As******in",
+      "email": "asi*************@*mail.com",
+      "phone": "93*****256",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "TA******SI",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "264f****************************ea86",
+      "userId": "4224****************************1c07",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Po*****************ra",
+      "email": "san****************@*mail.com",
+      "phone": "90*****066",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Sw**********************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "7",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "d512****************************5000",
+      "userId": "f10d****************************9f20",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ch*******HB",
+      "email": "che**********@*mail.com",
+      "phone": "82*****397",
+      "location": "Bangalore",
+      "ctc": "315",
+      "employer": "LT*******ee",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "6ac6****************************ba15",
+      "userId": "82da****************************6ab3",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "As**********ka",
+      "email": "ash*********@*mail.com",
+      "phone": "94*****877",
+      "location": "Dhenkanal",
+      "ctc": "6",
+      "employer": "TT****************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "9bad****************************874c",
+      "userId": "48cb****************************49a1",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Hi***************01",
+      "email": "him***************@*mail.com",
+      "phone": "98*****621",
+      "location": "West Delhi",
+      "ctc": "6",
+      "employer": "Vo***************************************ia",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "7859****************************3305",
+      "userId": "2737****************************740c",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Po******** P",
+      "email": "poo**********@*mail.com",
+      "phone": "63*****043",
+      "location": "Chennai",
+      "ctc": "4",
+      "employer": "De***********er",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "494e****************************2bc9",
+      "userId": "4671****************************0406",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sw*********la",
+      "email": "swa***********@*mail.com",
+      "phone": "93*****873",
+      "location": "Hyderabad",
+      "ctc": "4",
+      "employer": "Vi******************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "d271****************************72cb",
+      "userId": "1698****************************b964",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "R ************ar",
+      "email": "kum***************@*mail.com",
+      "phone": "63*****725",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "In***ys",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": "8",
+      "offersInHand": "2",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "4069****************************d599",
+      "userId": "f116****************************660c",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ki********************ar",
+      "email": "kir************@*mail.com",
+      "phone": "99*****798",
+      "location": "Chennai",
+      "ctc": "4",
+      "employer": "Ki************ U",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "ac0b****************************979b",
+      "userId": "26e4****************************6c19",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sa***** T",
+      "email": "sar********@*mail.com",
+      "phone": "89*****215",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Ka********************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": "5",
+      "offersInHand": "1",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "4bdd****************************fdb2",
+      "userId": "a8ff****************************15fb",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sa*******r ",
+      "email": "sai************@*mail.com",
+      "phone": "72*****825",
+      "location": "Bangalore",
+      "ctc": "12",
+      "employer": "HC************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 60,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "5",
+      "willingToRelocate": true,
+      "expectedCTC": "16",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "12e6****************************7a54",
+      "userId": "2555****************************bb65",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Fa*********zi",
+      "email": "qua***********@*mail.com",
+      "phone": "84*****149",
+      "location": "Hyderabad",
+      "ctc": "0",
+      "employer": "Ed*************on",
+      "currentContractType": "Contract",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "4000",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "ea33****************************e057",
+      "userId": "ab75****************************1885",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "DI***********AR",
+      "email": "div************@*mail.com",
+      "phone": "97*****119",
+      "location": "Sheikhpura",
+      "ctc": "5",
+      "employer": "Qu*ra",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "c138****************************b602",
+      "userId": "d96c****************************0b6e",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Am****************i ",
+      "email": "amu*******@*mail.com",
+      "phone": "62*****758",
+      "location": "Bangalore",
+      "ctc": "3",
+      "employer": "Di****************on",
+      "currentContractType": "Contract",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 60,
+      "offerCTC": "5",
+      "offersInHand": "2",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "7ce0****************************9cc6",
+      "userId": "33bf****************************c2d3",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ga********ar",
+      "email": "gau*************@*mail.com",
+      "phone": "79*****914",
+      "location": "West Delhi",
+      "ctc": "7",
+      "employer": "Asj",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "11",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "dc1a****************************a709",
+      "userId": "6089****************************8cca",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Lo********dy",
+      "email": "lok*************@*mail.com",
+      "phone": "96*****278",
+      "location": "Bangalore",
+      "ctc": "17",
+      "employer": "",
+      "currentContractType": null,
+      "currentWorkType": null,
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "5",
+      "willingToRelocate": true,
+      "expectedCTC": "20",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "4"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "5"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "5735****************************a45e",
+      "userId": "5da6****************************db73",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "su*** p",
+      "email": "epg********@*mail.com",
+      "phone": "99*****275",
+      "location": "Hyderabad",
+      "ctc": "5",
+      "employer": "Ze***********************ed",
+      "currentContractType": "Contract",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "39e8****************************4562",
+      "userId": "8b60****************************7730",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Na*********na",
+      "email": "nai********@*mail.com",
+      "phone": "84*****468",
+      "location": "Hyderabad",
+      "ctc": "5",
+      "employer": "Av**********td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "5",
+      "willingToRelocate": true,
+      "expectedCTC": "11",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "5"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "36fa****************************1b28",
+      "userId": "886b****************************c0d9",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Bh***********ut",
+      "email": "bha**************@*mail.com",
+      "phone": "72*****020",
+      "location": "Bangalore",
+      "ctc": "3",
+      "employer": "Bh***********ut",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "90",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "cdc2****************************de2c",
+      "userId": "0efa****************************4ab4",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ka********** M",
+      "email": "kar***************@*mail.com",
+      "phone": "88*****904",
+      "location": "Bangalore",
+      "ctc": "7",
+      "employer": "Ka********* M",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "12",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "de1c****************************0975",
+      "userId": "48ba****************************e9b9",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra************la",
+      "email": "gop**********@*mail.com",
+      "phone": "95*****050",
+      "location": "Gorakhpur",
+      "ctc": "3",
+      "employer": "Ne***************gy",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "4a55****************************7ed8",
+      "userId": "276f****************************d210",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Md********* C",
+      "email": "mdc*********@*mail.com",
+      "phone": "86*****605",
+      "location": "Bangalore",
+      "ctc": "7",
+      "employer": "Li***************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "76ba****************************3c1d",
+      "userId": "2b56****************************c5aa",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ga****** K",
+      "email": "gan***********@*mail.com",
+      "phone": "93*****249",
+      "location": "Bangalore",
+      "ctc": "9",
+      "employer": "Co*******************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "c6b6****************************4012",
+      "userId": "61a2****************************22ae",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ja******* S",
+      "email": "jay*********@*mail.com",
+      "phone": "70*****120",
+      "location": "Coimbatore",
+      "ctc": "3",
+      "employer": "Da**********bs",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "3a34****************************fc57",
+      "userId": "94f4****************************e4b6",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi***************i ",
+      "email": "vis*************@**tlook.in",
+      "phone": "86*****795",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Cl***********io",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "7",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "ded3****************************4d42",
+      "userId": "1e2a****************************74ce",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra**********ty",
+      "email": "mku*********@*mail.com",
+      "phone": "70*****307",
+      "location": "Pune",
+      "ctc": "4",
+      "employer": "MH****IN",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 40,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "4",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "159e****************************c6e1",
+      "userId": "8536****************************43b0",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ma************ar",
+      "email": "man****************@*mail.com",
+      "phone": "81*****880",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Bl*******rs",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "15",
+      "applicationStatus": "Viewed Resume",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "0cee****************************4e2c",
+      "userId": "bd82****************************19d8",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Tu*********ma",
+      "email": "tus*************@*mail.com",
+      "phone": "90*****693",
+      "location": "Jaipur",
+      "ctc": "10",
+      "employer": "Da***na",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "16",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "b352****************************5de6",
+      "userId": "314d****************************b300",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "UJ******AJ",
+      "email": "ujj************@*mail.com",
+      "phone": "91*****801",
+      "location": "Bangalore",
+      "ctc": "3",
+      "employer": "HY**************MS",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "7",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "d946****************************9cfb",
+      "userId": "d078****************************bbb8",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Jo**********f ",
+      "email": "jos********@*mail.com",
+      "phone": "97*****048",
+      "location": "Solapur",
+      "ctc": "4",
+      "employer": "Jo********af",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 40,
+      "offerCTC": "7",
+      "offersInHand": "1",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "15",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "0"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "0"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "7a13****************************d0c0",
+      "userId": "2b73****************************2fca",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ra******le",
+      "email": "rah**********@*mail.com",
+      "phone": "86*****952",
+      "location": "Mumbai",
+      "ctc": "5",
+      "employer": "Ro********le",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "9",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "b955****************************d67a",
+      "userId": "b25d****************************6544",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ka**************la",
+      "email": "gal***********@*mail.com",
+      "phone": "91*****863",
+      "location": "Hyderabad",
+      "ctc": "3",
+      "employer": "Ri*******************ns",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "5f8b****************************a7b4",
+      "userId": "d9c0****************************4571",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Am********an",
+      "email": "pat***********@*mail.com",
+      "phone": "75*****407",
+      "location": "Cuddapah",
+      "ctc": "5",
+      "employer": "Co******nt",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": "7",
+      "offersInHand": "2",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    },
+    {
+      "id": "f67e****************************6b07",
+      "userId": "9223****************************47ed",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi*******aj",
+      "email": "viv***************@*mail.com",
+      "phone": "98*****302",
+      "location": "Bangalore",
+      "ctc": "1500",
+      "employer": "Vi*******aj",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "2888",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "2b95****************************0bb1",
+      "userId": "0de4****************************ad6a",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Vi*******ar",
+      "email": "vin**********@*mail.com",
+      "phone": "89*****276",
+      "location": "Hyderabad",
+      "ctc": "9",
+      "employer": "Ex***************td",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "3",
+      "willingToRelocate": true,
+      "expectedCTC": "15",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "eac7****************************b11b",
+      "userId": "1038****************************f183",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "sa************ri",
+      "email": "sam********************@*mail.com",
+      "phone": "70*****490",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Mo*************gy",
+      "currentContractType": "Contract to hire (C2H)",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": "5",
+      "offersInHand": "1",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "docx",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "bb34****************************600e",
+      "userId": "c947****************************7af3",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Ab*********ol",
+      "email": "pol*********@*mail.com",
+      "phone": "89*****379",
+      "location": "Mumbai",
+      "ctc": "3",
+      "employer": "Sc***en",
+      "currentContractType": "Contract to hire (C2H)",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 80,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "397c****************************22bc",
+      "userId": "f0ad****************************7507",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Se*******ra",
+      "email": "sej*********@*mail.com",
+      "phone": "93*****268",
+      "location": "Indore",
+      "ctc": "4",
+      "employer": "",
+      "currentContractType": null,
+      "currentWorkType": "Remote",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "498e****************************354b",
+      "userId": "1969****************************8938",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sr**************di",
+      "email": "sri********@*mail.com",
+      "phone": "74*****384",
+      "location": "Bangalore",
+      "ctc": "5",
+      "employer": "Ta*********************es",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 60,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "10",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "0"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "4"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "3"
+        }
+      ]
+    },
+    {
+      "id": "6549****************************d8cd",
+      "userId": "aad9****************************f48f",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Si***************e ",
+      "email": "sid*************@*mail.com",
+      "phone": "96*****990",
+      "location": "Thane",
+      "ctc": "9",
+      "employer": "T-*****************td",
+      "currentContractType": "Contract to hire (C2H)",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Remote",
+      "matchPercentage": 100,
+      "offerCTC": "13",
+      "offersInHand": "1",
+      "overallExperience": "4",
+      "willingToRelocate": true,
+      "expectedCTC": "15",
+      "noticePeriod": "60",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "3"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "3"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "3"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "4"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "4"
+        }
+      ]
+    },
+    {
+      "id": "398d****************************8eda",
+      "userId": "024a****************************e91b",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Re***************ar",
+      "email": "sek*************@*mail.com",
+      "phone": "90*****836",
+      "location": "Bangalore",
+      "ctc": "15",
+      "employer": "Lo******al",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Hybrid",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "6",
+      "willingToRelocate": true,
+      "expectedCTC": "18",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "6"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "6"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "6"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "3"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "5"
+        }
+      ]
+    },
+    {
+      "id": "460a****************************e089",
+      "userId": "b923****************************a4f9",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Um*********** R",
+      "email": "uma**************@*mail.com",
+      "phone": "96*****663",
+      "location": "Bangalore",
+      "ctc": "6",
+      "employer": "Ne**************************LP",
+      "currentContractType": "Permanent",
+      "currentWorkType": "Remote",
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "1",
+      "willingToRelocate": true,
+      "expectedCTC": "8",
+      "noticePeriod": "0",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "1"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "1"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "1"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "1"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "1"
+        }
+      ]
+    },
+    {
+      "id": "5041****************************254a",
+      "userId": "8ac0****************************c948",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "Sa********** T",
+      "email": "sak**************@*mail.com",
+      "phone": "70*****212",
+      "location": "Belgaum",
+      "ctc": "2",
+      "employer": "Tr********ct",
+      "currentContractType": "Permanent",
+      "currentWorkType": "On-site",
+      "preferredWorkType": "On-site",
+      "matchPercentage": 0,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "5",
+      "noticePeriod": "15",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "0"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "0"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "0"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "0"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "0"
+        }
+      ]
+    },
+    {
+      "id": "06f7****************************70f9",
+      "userId": "b947****************************d9aa",
+      "jobId": "f9c9ff26-beea-4d47-8d93-bfdb660dc227",
+      "name": "M *****************bu",
+      "email": "gan***********@*mail.com",
+      "phone": "63*****300",
+      "location": "Bangalore",
+      "ctc": "4",
+      "employer": "Sa***ft",
+      "currentContractType": "Permanent",
+      "currentWorkType": null,
+      "preferredWorkType": "Hybrid",
+      "matchPercentage": 100,
+      "offerCTC": 0,
+      "offersInHand": "0",
+      "overallExperience": "2",
+      "willingToRelocate": true,
+      "expectedCTC": "6",
+      "noticePeriod": "30",
+      "applicationStatus": "Applied",
+      "attachmentFileExtension": "pdf",
+      "createdAt": "18/12/24",
+      "skills": [
+        {
+          "id": "d9092888-f825-4cae-ae9b-573cbb8323b3",
+          "name": "Cloud Security",
+          "years": "2"
+        },
+        {
+          "id": "d674c14a-de81-4158-9e9a-c956258a164c",
+          "name": "AWS",
+          "years": "2"
+        },
+        {
+          "id": "160d9064-ff11-4a99-b910-0c7d2d3f5698",
+          "name": "DevOps",
+          "years": "2"
+        },
+        {
+          "id": "e248eeb7-3cee-426a-9762-58bda876717c",
+          "name": "Ansible",
+          "years": "2"
+        },
+        {
+          "id": "bf765689-9091-495a-b447-94cfc8de6538",
+          "name": "Scripting",
+          "years": "2"
+        }
+      ]
+    }
+  ]
